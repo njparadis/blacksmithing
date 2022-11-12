@@ -5,7 +5,7 @@
 - Twisting wrench
 
 ## Materials
-Start with round stock (unure what size we used)
+Start with round stock (unsure what size we used)
 
 ## Instructions
 1. Taper each end

@@ -32,7 +32,7 @@ There is a process called "suck" which causes the material we are smooshing toge
 Once the scarf is in place, bend into place and start welding!
 
 ### Chain link welds
-These are honestly a total bitch to make. Mine came out horrible and uneven. But that's besides the point.
+These are honestly a total bitch to make. Mine came out horrible and uneven. But that's beside the point.
 
 You start with round stock and bend into a U. Then, you need to add opposing scarves on each end. To do this, position the U on the anvil slightly diagonally, such that one end is sticking off the bottom, and the other is fully on the anvil (the "weight bearing" tine). Use half-faced blows to form the scarf and repeat for the other tine. The resulting scarfs should be angled inwards. Bend them 90º into place and begin welding.
 
