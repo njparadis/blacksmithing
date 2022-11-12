@@ -31,7 +31,7 @@ Rectangle stock (we used 5/8 by 3/16)
 	3. Start with a footprint from the punch before going for the full monty
 	4. When the metal biscuit is compressed enough, your hammer will bounce back
 	5. At this point, flip the piece over and position punch where you see the biscuit
-	6. Tap a couple of times, then twack once to seat punch
+	6. Tap a couple of times, then thwack once to seat punch
 	7. Move to bolster plate and sheer off the biscuit (steel needs to be COOL)
 8. Spread the other end into a fish tail
 9. Curl into a volute (decide which side looks better and curl the other way)
