@@ -17,7 +17,7 @@ Start with 3/8in square stock
 	1. Remember to protect the shoulders
 	2. Rotate/move the stock constantly to create the sphere
 4. Taper the part below the ball slightly for the hook
-5. Forge a [leaf](./Leaf.md) on the other end
+5. Forge a [leaf](Leaf.md) on the other end
 6. Use the rounded punch to put a spot for a fastener hole slightly below the leaf stem
 	1. Can angle the punch slightly between hammer blows to widen the space
 7. Bend the leaf to one side
