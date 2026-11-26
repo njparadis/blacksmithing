@@ -8,6 +8,8 @@ The process to weld is generally:
 2. Heat your pre-shaped metal to orange color
 3. Cover the weld zone in flux
 4. Return the item to the forge and heat to yellow temp
+	1. You'll want to look for a greenish-orange flame; this is the flux vaporizing and joining in the oxidation reaction. This means the metal is close to the proper temp for welding.
+	2. Once you see the green flame, give the steel a few more seconds in the forge.
 5. Using quick light blows, forge the metal together
 	1. Once the metal is orange temp, re-flux and return to the forge
 6. Repeat this process 3-5 times
@@ -36,4 +38,11 @@ These are honestly a total bitch to make. Mine came out horrible and uneven. But
 
 You start with round stock and bend into a U. Then, you need to add opposing scarves on each end. To do this, position the U on the anvil slightly diagonally, such that one end is sticking off the bottom, and the other is fully on the anvil (the "weight bearing" tine). Use half-faced blows to form the scarf and repeat for the other tine. The resulting scarfs should be angled inwards. Bend them 90º into place and begin welding.
 
-During the weld iself, be sure to alternate using the top and the horn of the anvil to ensure you are welding thoroughly.
+During the weld itself, be sure to alternate using the top and the horn of the anvil to ensure you are welding thoroughly.
+
+## Drop-tong welds
+These are welds where we are welding two completely separate pieces of metal together. All the same rules for forge welding apply (scarf em, flux em, get em real hot), but these welds require careful coordination.
+
+When you remove the two pieces from the forge, you will need to move swiftly to the anvil; be sure to have the smaller piece in your dominant/hammering hand and the larger piece in your other.
+
+Place the smaller piece first, such that the tongs are on the other side of the anvil from you. With the other piece of hot metal, cantilever down the smaller one, being sure that the pieces are aligned properly (ie perfectly in line with each other). Once the small piece is secure, drop the tongs you are holding it with and pick up your hammer to start forging (hence the name).
